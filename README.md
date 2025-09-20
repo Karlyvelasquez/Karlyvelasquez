@@ -1,4 +1,4 @@
-### ![Karly Velasquez](https://raw.githubusercontent.com/Karlyvelasquez/Karlyvelasquez/master/Print_hi.png) 
+### ![Karly Velasquez](https://raw.githubusercontent.com/Karlyvelasquez/Karlyvelasquez/master/hi_there.png) 
 
 <!--
 **Karlyvelasquez/Karlyvelasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
