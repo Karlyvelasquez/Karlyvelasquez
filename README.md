@@ -1,4 +1,4 @@
-## Print("Hi, there. I´m Karly Velasquez ![Karly Velasquez](https://raw.githubusercontent.com/Karlyvelasquez/Karlyvelasquez/master/karly.animado.png) 
+## Print("Hi, there. I´m Karly Velasquez ![Karly Velasquez](https://raw.githubusercontent.com/Karlyvelasquez/Karlyvelasquez/master/result_karly.animado.png) 
 ![](https://github-readme-stats.vercel.app/api?username=Karlyvelasquez&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!--
 **Karlyvelasquez/Karlyvelasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
