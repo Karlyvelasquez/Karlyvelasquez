@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Karlyvelasquez/Karlyvelasquez/master/hi_there!.png" alt="Karly Velasquez Banner"/>
 
-<h3 align="center">💻 Informatics Engineering Student | Data Science & AI Enthusiast | Programming 🔥</h3>
+<h3 align="center">💻 Informatics Engineering Student | Data Science & AI Enthusiast | Programming </h3>
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 My Skill Set  
+##  My Skill Set  
 
 <div align="center">
   
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 Github Stats  
+## Github Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karlyvelasquez&show_icons=true&theme=tokyonight" height="150" />
@@ -78,7 +78,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## Connect With Me  
 
 <div align="center">
   <a href="https://github.com/karlyvelasquez" target="_blank">
