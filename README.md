@@ -5,7 +5,7 @@
 
 ---
 
-- 🎓 I'm currently studying **Informatics Engineering (6th semester)**.  
+- 🎓 I'm currently studying **Informatics Engineering (7th semester)**.  
 - 👩‍💻 Leader of a **Research Group on Programming, Data Analytics & Artificial Intelligence**.  
 - 📊 Experience in **Data Science, Machine Learning & Predictive Models**.  
 - 🔒 Former **Cybersecurity & Cyberdefense Diploma Monitor**.  
